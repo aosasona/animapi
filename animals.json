@@ -1,0 +1,502 @@
+[
+  {
+    "name": "wolverine",
+    "slugified_name": "wolverine",
+    "filename": "wolverine.webp"
+  },
+  {
+    "name": "parrot",
+    "slugified_name": "parrot",
+    "filename": "parrot.webp"
+  },
+  {
+    "name": "monkey",
+    "slugified_name": "monkey",
+    "filename": "monkey.webp"
+  },
+  {
+    "name": "snowy owl",
+    "slugified_name": "snowy_owl",
+    "filename": "snowy_owl.webp"
+  },
+  {
+    "name": "buffalo",
+    "slugified_name": "buffalo",
+    "filename": "buffalo.webp"
+  },
+  {
+    "name": "weasel",
+    "slugified_name": "weasel",
+    "filename": "weasel.webp"
+  },
+  {
+    "name": "mouse",
+    "slugified_name": "mouse",
+    "filename": "mouse.webp"
+  },
+  {
+    "name": "bunny",
+    "slugified_name": "bunny",
+    "filename": "bunny.webp"
+  },
+  {
+    "name": "marmoset",
+    "slugified_name": "marmoset",
+    "filename": "marmoset.webp"
+  },
+  {
+    "name": "alpaca",
+    "slugified_name": "alpaca",
+    "filename": "alpaca.webp"
+  },
+  {
+    "name": "thorny devil",
+    "slugified_name": "thorny_devil",
+    "filename": "thorny_devil.webp"
+  },
+  {
+    "name": "pronghorn",
+    "slugified_name": "pronghorn",
+    "filename": "pronghorn.webp"
+  },
+  {
+    "name": "guinea pig",
+    "slugified_name": "guinea_pig",
+    "filename": "guinea_pig.webp"
+  },
+  {
+    "name": "prairie dog",
+    "slugified_name": "prairie_dog",
+    "filename": "prairie_dog.webp"
+  },
+  {
+    "name": "eland",
+    "slugified_name": "eland",
+    "filename": "eland.webp"
+  },
+  {
+    "name": "toad",
+    "slugified_name": "toad",
+    "filename": "toad.webp"
+  },
+  {
+    "name": "ermine",
+    "slugified_name": "ermine",
+    "filename": "ermine.webp"
+  },
+  {
+    "name": "mule",
+    "slugified_name": "mule",
+    "filename": "mule.webp"
+  },
+  {
+    "name": "elk",
+    "slugified_name": "elk",
+    "filename": "elk.webp"
+  },
+  {
+    "name": "hippopotamus",
+    "slugified_name": "hippopotamus",
+    "filename": "hippopotamus.webp"
+  },
+  {
+    "name": "kitten",
+    "slugified_name": "kitten",
+    "filename": "kitten.webp"
+  },
+  {
+    "name": "otter",
+    "slugified_name": "otter",
+    "filename": "otter.webp"
+  },
+  {
+    "name": "sheep",
+    "slugified_name": "sheep",
+    "filename": "sheep.webp"
+  },
+  {
+    "name": "ram",
+    "slugified_name": "ram",
+    "filename": "ram.webp"
+  },
+  {
+    "name": "ape",
+    "slugified_name": "ape",
+    "filename": "ape.webp"
+  },
+  {
+    "name": "seal",
+    "slugified_name": "seal",
+    "filename": "seal.webp"
+  },
+  {
+    "name": "mare",
+    "slugified_name": "mare",
+    "filename": "mare.webp"
+  },
+  {
+    "name": "lamb",
+    "slugified_name": "lamb",
+    "filename": "lamb.webp"
+  },
+  {
+    "name": "baboon",
+    "slugified_name": "baboon",
+    "filename": "baboon.webp"
+  },
+  {
+    "name": "gila monster",
+    "slugified_name": "gila_monster",
+    "filename": "gila_monster.webp"
+  },
+  {
+    "name": "jaguar",
+    "slugified_name": "jaguar",
+    "filename": "jaguar.webp"
+  },
+  {
+    "name": "porpoise",
+    "slugified_name": "porpoise",
+    "filename": "porpoise.webp"
+  },
+  {
+    "name": "reindeer",
+    "slugified_name": "reindeer",
+    "filename": "reindeer.webp"
+  },
+  {
+    "name": "yak",
+    "slugified_name": "yak",
+    "filename": "yak.webp"
+  },
+  {
+    "name": "hartebeest",
+    "slugified_name": "hartebeest",
+    "filename": "hartebeest.webp"
+  },
+  {
+    "name": "aardvark",
+    "slugified_name": "aardvark",
+    "filename": "aardvark.webp"
+  },
+  {
+    "name": "bull",
+    "slugified_name": "bull",
+    "filename": "bull.webp"
+  },
+  {
+    "name": "frog",
+    "slugified_name": "frog",
+    "filename": "frog.webp"
+  },
+  {
+    "name": "armadillo",
+    "slugified_name": "armadillo",
+    "filename": "armadillo.webp"
+  },
+  {
+    "name": "snake",
+    "slugified_name": "snake",
+    "filename": "snake.webp"
+  },
+  {
+    "name": "rhinoceros",
+    "slugified_name": "rhinoceros",
+    "filename": "rhinoceros.webp"
+  },
+  {
+    "name": "finch",
+    "slugified_name": "finch",
+    "filename": "finch.webp"
+  },
+  {
+    "name": "lizard",
+    "slugified_name": "lizard",
+    "filename": "lizard.webp"
+  },
+  {
+    "name": "jerboa",
+    "slugified_name": "jerboa",
+    "filename": "jerboa.webp"
+  },
+  {
+    "name": "ground hog",
+    "slugified_name": "ground_hog",
+    "filename": "ground_hog.webp"
+  },
+  {
+    "name": "kangaroo",
+    "slugified_name": "kangaroo",
+    "filename": "kangaroo.webp"
+  },
+  {
+    "name": "bat",
+    "slugified_name": "bat",
+    "filename": "bat.webp"
+  },
+  {
+    "name": "mink",
+    "slugified_name": "mink",
+    "filename": "mink.webp"
+  },
+  {
+    "name": "gorilla",
+    "slugified_name": "gorilla",
+    "filename": "gorilla.webp"
+  },
+  {
+    "name": "fish",
+    "slugified_name": "fish",
+    "filename": "fish.webp"
+  },
+  {
+    "name": "whale",
+    "slugified_name": "whale",
+    "filename": "whale.webp"
+  },
+  {
+    "name": "iguana",
+    "slugified_name": "iguana",
+    "filename": "iguana.webp"
+  },
+  {
+    "name": "bald eagle",
+    "slugified_name": "bald_eagle",
+    "filename": "bald_eagle.webp"
+  },
+  {
+    "name": "fox",
+    "slugified_name": "fox",
+    "filename": "fox.webp"
+  },
+  {
+    "name": "wildcat",
+    "slugified_name": "wildcat",
+    "filename": "wildcat.webp"
+  },
+  {
+    "name": "newt",
+    "slugified_name": "newt",
+    "filename": "newt.webp"
+  },
+  {
+    "name": "springbok",
+    "slugified_name": "springbok",
+    "filename": "springbok.webp"
+  },
+  {
+    "name": "shrew",
+    "slugified_name": "shrew",
+    "filename": "shrew.webp"
+  },
+  {
+    "name": "hyena",
+    "slugified_name": "hyena",
+    "filename": "hyena.webp"
+  },
+  {
+    "name": "gopher",
+    "slugified_name": "gopher",
+    "filename": "gopher.webp"
+  },
+  {
+    "name": "peccary",
+    "slugified_name": "peccary",
+    "filename": "peccary.webp"
+  },
+  {
+    "name": "opossum",
+    "slugified_name": "opossum",
+    "filename": "opossum.webp"
+  },
+  {
+    "name": "puma",
+    "slugified_name": "puma",
+    "filename": "puma.webp"
+  },
+  {
+    "name": "wolf",
+    "slugified_name": "wolf",
+    "filename": "wolf.webp"
+  },
+  {
+    "name": "dugong",
+    "slugified_name": "dugong",
+    "filename": "dugong.webp"
+  },
+  {
+    "name": "bighorn",
+    "slugified_name": "bighorn",
+    "filename": "bighorn.webp"
+  },
+  {
+    "name": "gazelle",
+    "slugified_name": "gazelle",
+    "filename": "gazelle.webp"
+  },
+  {
+    "name": "budgerigar",
+    "slugified_name": "budgerigar",
+    "filename": "budgerigar.webp"
+  },
+  {
+    "name": "coyote",
+    "slugified_name": "coyote",
+    "filename": "coyote.webp"
+  },
+  {
+    "name": "puppy",
+    "slugified_name": "puppy",
+    "filename": "puppy.webp"
+  },
+  {
+    "name": "marten",
+    "slugified_name": "marten",
+    "filename": "marten.webp"
+  },
+  {
+    "name": "musk deer",
+    "slugified_name": "musk_deer",
+    "filename": "musk_deer.webp"
+  },
+  {
+    "name": "colt",
+    "slugified_name": "colt",
+    "filename": "colt.webp"
+  },
+  {
+    "name": "hare",
+    "slugified_name": "hare",
+    "filename": "hare.webp"
+  },
+  {
+    "name": "boar",
+    "slugified_name": "boar",
+    "filename": "boar.webp"
+  },
+  {
+    "name": "lion",
+    "slugified_name": "lion",
+    "filename": "lion.webp"
+  },
+  {
+    "name": "zebu",
+    "slugified_name": "zebu",
+    "filename": "zebu.webp"
+  },
+  {
+    "name": "capybara",
+    "slugified_name": "capybara",
+    "filename": "capybara.webp"
+  },
+  {
+    "name": "dingo",
+    "slugified_name": "dingo",
+    "filename": "dingo.webp"
+  },
+  {
+    "name": "turtle",
+    "slugified_name": "turtle",
+    "filename": "turtle.webp"
+  },
+  {
+    "name": "musk ox",
+    "slugified_name": "musk_ox",
+    "filename": "musk_ox.webp"
+  },
+  {
+    "name": "chamois",
+    "slugified_name": "chamois",
+    "filename": "chamois.webp"
+  },
+  {
+    "name": "ox",
+    "slugified_name": "ox",
+    "filename": "ox.webp"
+  },
+  {
+    "name": "hedgehog",
+    "slugified_name": "hedgehog",
+    "filename": "hedgehog.webp"
+  },
+  {
+    "name": "salamander",
+    "slugified_name": "salamander",
+    "filename": "salamander.webp"
+  },
+  {
+    "name": "canary",
+    "slugified_name": "canary",
+    "filename": "canary.webp"
+  },
+  {
+    "name": "chameleon",
+    "slugified_name": "chameleon",
+    "filename": "chameleon.webp"
+  },
+  {
+    "name": "gnu",
+    "slugified_name": "gnu",
+    "filename": "gnu.webp"
+  },
+  {
+    "name": "badger",
+    "slugified_name": "badger",
+    "filename": "badger.webp"
+  },
+  {
+    "name": "basilisk",
+    "slugified_name": "basilisk",
+    "filename": "basilisk.webp"
+  },
+  {
+    "name": "gemsbok",
+    "slugified_name": "gemsbok",
+    "filename": "gemsbok.webp"
+  },
+  {
+    "name": "starfish",
+    "slugified_name": "starfish",
+    "filename": "starfish.webp"
+  },
+  {
+    "name": "pig",
+    "slugified_name": "pig",
+    "filename": "pig.webp"
+  },
+  {
+    "name": "highland cow",
+    "slugified_name": "highland_cow",
+    "filename": "highland_cow.webp"
+  },
+  {
+    "name": "steer",
+    "slugified_name": "steer",
+    "filename": "steer.webp"
+  },
+  {
+    "name": "squirrel",
+    "slugified_name": "squirrel",
+    "filename": "squirrel.webp"
+  },
+  {
+    "name": "mandrill",
+    "slugified_name": "mandrill",
+    "filename": "mandrill.webp"
+  },
+  {
+    "name": "octopus",
+    "slugified_name": "octopus",
+    "filename": "octopus.webp"
+  },
+  {
+    "name": "panther",
+    "slugified_name": "panther",
+    "filename": "panther.webp"
+  },
+  {
+    "name": "ibex",
+    "slugified_name": "ibex",
+    "filename": "ibex.webp"
+  }
+]
