@@ -1,1 +1,752 @@
-[{"name": "gazelle", "slugified_name": "gazelle", "filename": "gazelle.webp"}, {"name": "addax", "slugified_name": "addax", "filename": "addax.webp"}, {"name": "elk", "slugified_name": "elk", "filename": "elk.webp"}, {"name": "goat", "slugified_name": "goat", "filename": "goat.webp"}, {"name": "chamois", "slugified_name": "chamois", "filename": "chamois.webp"}, {"name": "seal", "slugified_name": "seal", "filename": "seal.webp"}, {"name": "dromedary", "slugified_name": "dromedary", "filename": "dromedary.webp"}, {"name": "guinea pig", "slugified_name": "guinea_pig", "filename": "guinea_pig.webp"}, {"name": "salamander", "slugified_name": "salamander", "filename": "salamander.webp"}, {"name": "marten", "slugified_name": "marten", "filename": "marten.webp"}, {"name": "walrus", "slugified_name": "walrus", "filename": "walrus.webp"}, {"name": "gorilla", "slugified_name": "gorilla", "filename": "gorilla.webp"}, {"name": "tiger", "slugified_name": "tiger", "filename": "tiger.webp"}, {"name": "coati", "slugified_name": "coati", "filename": "coati.webp"}, {"name": "steer", "slugified_name": "steer", "filename": "steer.webp"}, {"name": "monkey", "slugified_name": "monkey", "filename": "monkey.webp"}, {"name": "finch", "slugified_name": "finch", "filename": "finch.webp"}, {"name": "lamb", "slugified_name": "lamb", "filename": "lamb.webp"}, {"name": "gopher", "slugified_name": "gopher", "filename": "gopher.webp"}, {"name": "cow", "slugified_name": "cow", "filename": "cow.webp"}, {"name": "cat", "slugified_name": "cat", "filename": "cat.webp"}, {"name": "puppy", "slugified_name": "puppy", "filename": "puppy.webp"}, {"name": "armadillo", "slugified_name": "armadillo", "filename": "armadillo.webp"}, {"name": "musk ox", "slugified_name": "musk_ox", "filename": "musk_ox.webp"}, {"name": "civet", "slugified_name": "civet", "filename": "civet.webp"}, {"name": "koala", "slugified_name": "koala", "filename": "koala.webp"}, {"name": "gemsbok", "slugified_name": "gemsbok", "filename": "gemsbok.webp"}, {"name": "dugong", "slugified_name": "dugong", "filename": "dugong.webp"}, {"name": "giraffe", "slugified_name": "giraffe", "filename": "giraffe.webp"}, {"name": "skunk", "slugified_name": "skunk", "filename": "skunk.webp"}, {"name": "opossum", "slugified_name": "opossum", "filename": "opossum.webp"}, {"name": "wildcat", "slugified_name": "wildcat", "filename": "wildcat.webp"}, {"name": "camel", "slugified_name": "camel", "filename": "camel.webp"}, {"name": "aardvark", "slugified_name": "aardvark", "filename": "aardvark.webp"}, {"name": "puma", "slugified_name": "puma", "filename": "puma.webp"}, {"name": "jerboa", "slugified_name": "jerboa", "filename": "jerboa.webp"}, {"name": "wombat", "slugified_name": "wombat", "filename": "wombat.webp"}, {"name": "oryx", "slugified_name": "oryx", "filename": "oryx.webp"}, {"name": "polar bear", "slugified_name": "polar_bear", "filename": "polar_bear.webp"}, {"name": "vicuna", "slugified_name": "vicuna", "filename": "vicuna.webp"}, {"name": "deer", "slugified_name": "deer", "filename": "deer.webp"}, {"name": "parakeet", "slugified_name": "parakeet", "filename": "parakeet.webp"}, {"name": "muskrat", "slugified_name": "muskrat", "filename": "muskrat.webp"}, {"name": "silver fox", "slugified_name": "silver_fox", "filename": "silver_fox.webp"}, {"name": "kitten", "slugified_name": "kitten", "filename": "kitten.webp"}, {"name": "buffalo", "slugified_name": "buffalo", "filename": "buffalo.webp"}, {"name": "pronghorn", "slugified_name": "pronghorn", "filename": "pronghorn.webp"}, {"name": "shrew", "slugified_name": "shrew", "filename": "shrew.webp"}, {"name": "reindeer", "slugified_name": "reindeer", "filename": "reindeer.webp"}, {"name": "hedgehog", "slugified_name": "hedgehog", "filename": "hedgehog.webp"}, {"name": "bunny", "slugified_name": "bunny", "filename": "bunny.webp"}, {"name": "meerkat", "slugified_name": "meerkat", "filename": "meerkat.webp"}, {"name": "ocelot", "slugified_name": "ocelot", "filename": "ocelot.webp"}, {"name": "bat", "slugified_name": "bat", "filename": "bat.webp"}, {"name": "capybara", "slugified_name": "capybara", "filename": "capybara.webp"}, {"name": "alpaca", "slugified_name": "alpaca", "filename": "alpaca.webp"}, {"name": "waterbuck", "slugified_name": "waterbuck", "filename": "waterbuck.webp"}, {"name": "sloth", "slugified_name": "sloth", "filename": "sloth.webp"}, {"name": "lion", "slugified_name": "lion", "filename": "lion.webp"}, {"name": "chicken", "slugified_name": "chicken", "filename": "chicken.webp"}, {"name": "eagle owl", "slugified_name": "eagle_owl", "filename": "eagle_owl.webp"}, {"name": "boar", "slugified_name": "boar", "filename": "boar.webp"}, {"name": "dingo", "slugified_name": "dingo", "filename": "dingo.webp"}, {"name": "beaver", "slugified_name": "beaver", "filename": "beaver.webp"}, {"name": "iguana", "slugified_name": "iguana", "filename": "iguana.webp"}, {"name": "crow", "slugified_name": "crow", "filename": "crow.webp"}, {"name": "otter", "slugified_name": "otter", "filename": "otter.webp"}, {"name": "peccary", "slugified_name": "peccary", "filename": "peccary.webp"}, {"name": "lovebird", "slugified_name": "lovebird", "filename": "lovebird.webp"}, {"name": "guanaco", "slugified_name": "guanaco", "filename": "guanaco.webp"}, {"name": "ewe", "slugified_name": "ewe", "filename": "ewe.webp"}, {"name": "grizzly bear", "slugified_name": "grizzly_bear", "filename": "grizzly_bear.webp"}, {"name": "stallion", "slugified_name": "stallion", "filename": "stallion.webp"}, {"name": "porpoise", "slugified_name": "porpoise", "filename": "porpoise.webp"}, {"name": "bear", "slugified_name": "bear", "filename": "bear.webp"}, {"name": "leopard", "slugified_name": "leopard", "filename": "leopard.webp"}, {"name": "gnu", "slugified_name": "gnu", "filename": "gnu.webp"}, {"name": "snowy owl", "slugified_name": "snowy_owl", "filename": "snowy_owl.webp"}, {"name": "warthog", "slugified_name": "warthog", "filename": "warthog.webp"}, {"name": "cheetah", "slugified_name": "cheetah", "filename": "cheetah.webp"}, {"name": "mouse", "slugified_name": "mouse", "filename": "mouse.webp"}, {"name": "whale", "slugified_name": "whale", "filename": "whale.webp"}, {"name": "donkey", "slugified_name": "donkey", "filename": "donkey.webp"}, {"name": "impala", "slugified_name": "impala", "filename": "impala.webp"}, {"name": "dung beetle", "slugified_name": "dung_beetle", "filename": "dung_beetle.webp"}, {"name": "rooster", "slugified_name": "rooster", "filename": "rooster.webp"}, {"name": "musk deer", "slugified_name": "musk_deer", "filename": "musk_deer.webp"}, {"name": "thorny devil", "slugified_name": "thorny_devil", "filename": "thorny_devil.webp"}, {"name": "rabbit", "slugified_name": "rabbit", "filename": "rabbit.webp"}, {"name": "panda", "slugified_name": "panda", "filename": "panda.webp"}, {"name": "burro", "slugified_name": "burro", "filename": "burro.webp"}, {"name": "highland cow", "slugified_name": "highland_cow", "filename": "highland_cow.webp"}, {"name": "dog", "slugified_name": "dog", "filename": "dog.webp"}, {"name": "squirrel", "slugified_name": "squirrel", "filename": "squirrel.webp"}, {"name": "tapir", "slugified_name": "tapir", "filename": "tapir.webp"}, {"name": "ram", "slugified_name": "ram", "filename": "ram.webp"}, {"name": "hamster", "slugified_name": "hamster", "filename": "hamster.webp"}, {"name": "rat", "slugified_name": "rat", "filename": "rat.webp"}, {"name": "hyena", "slugified_name": "hyena", "filename": "hyena.webp"}, {"name": "bighorn", "slugified_name": "bighorn", "filename": "bighorn.webp"}, {"name": "turtle", "slugified_name": "turtle", "filename": "turtle.webp"}, {"name": "chipmunk", "slugified_name": "chipmunk", "filename": "chipmunk.webp"}, {"name": "mare", "slugified_name": "mare", "filename": "mare.webp"}, {"name": "jaguar", "slugified_name": "jaguar", "filename": "jaguar.webp"}, {"name": "bull", "slugified_name": "bull", "filename": "bull.webp"}, {"name": "eland", "slugified_name": "eland", "filename": "eland.webp"}, {"name": "duckbill platypus", "slugified_name": "duckbill_platypus", "filename": "duckbill_platypus.webp"}, {"name": "colt", "slugified_name": "colt", "filename": "colt.webp"}, {"name": "starfish", "slugified_name": "starfish", "filename": "starfish.webp"}, {"name": "orangutan", "slugified_name": "orangutan", "filename": "orangutan.webp"}, {"name": "moose", "slugified_name": "moose", "filename": "moose.webp"}, {"name": "marmoset", "slugified_name": "marmoset", "filename": "marmoset.webp"}, {"name": "bumble bee", "slugified_name": "bumble_bee", "filename": "bumble_bee.webp"}, {"name": "fish", "slugified_name": "fish", "filename": "fish.webp"}, {"name": "zebu", "slugified_name": "zebu", "filename": "zebu.webp"}, {"name": "anteater", "slugified_name": "anteater", "filename": "anteater.webp"}, {"name": "wolverine", "slugified_name": "wolverine", "filename": "wolverine.webp"}, {"name": "fawn", "slugified_name": "fawn", "filename": "fawn.webp"}, {"name": "quagga", "slugified_name": "quagga", "filename": "quagga.webp"}, {"name": "ferret", "slugified_name": "ferret", "filename": "ferret.webp"}, {"name": "argali", "slugified_name": "argali", "filename": "argali.webp"}, {"name": "chinchilla", "slugified_name": "chinchilla", "filename": "chinchilla.webp"}, {"name": "badger", "slugified_name": "badger", "filename": "badger.webp"}, {"name": "bison", "slugified_name": "bison", "filename": "bison.webp"}, {"name": "mule", "slugified_name": "mule", "filename": "mule.webp"}, {"name": "ground hog", "slugified_name": "ground_hog", "filename": "ground_hog.webp"}, {"name": "wolf", "slugified_name": "wolf", "filename": "wolf.webp"}, {"name": "elephant", "slugified_name": "elephant", "filename": "elephant.webp"}, {"name": "parrot", "slugified_name": "parrot", "filename": "parrot.webp"}, {"name": "springbok", "slugified_name": "springbok", "filename": "springbok.webp"}, {"name": "lemur", "slugified_name": "lemur", "filename": "lemur.webp"}, {"name": "mink", "slugified_name": "mink", "filename": "mink.webp"}, {"name": "zebra", "slugified_name": "zebra", "filename": "zebra.webp"}, {"name": "llama", "slugified_name": "llama", "filename": "llama.webp"}, {"name": "ibex", "slugified_name": "ibex", "filename": "ibex.webp"}, {"name": "horse", "slugified_name": "horse", "filename": "horse.webp"}, {"name": "alligator", "slugified_name": "alligator", "filename": "alligator.webp"}, {"name": "okapi", "slugified_name": "okapi", "filename": "okapi.webp"}, {"name": "mustang", "slugified_name": "mustang", "filename": "mustang.webp"}, {"name": "chameleon", "slugified_name": "chameleon", "filename": "chameleon.webp"}, {"name": "canary", "slugified_name": "canary", "filename": "canary.webp"}, {"name": "jackal", "slugified_name": "jackal", "filename": "jackal.webp"}, {"name": "raccoon", "slugified_name": "raccoon", "filename": "raccoon.webp"}, {"name": "mountain goat", "slugified_name": "mountain_goat", "filename": "mountain_goat.webp"}, {"name": "mongoose", "slugified_name": "mongoose", "filename": "mongoose.webp"}, {"name": "sheep", "slugified_name": "sheep", "filename": "sheep.webp"}, {"name": "mynah bird", "slugified_name": "mynah_bird", "filename": "mynah_bird.webp"}, {"name": "hippopotamus", "slugified_name": "hippopotamus", "filename": "hippopotamus.webp"}, {"name": "frog", "slugified_name": "frog", "filename": "frog.webp"}, {"name": "pony", "slugified_name": "pony", "filename": "pony.webp"}]
+[
+  {
+    "name": "gazelle",
+    "slugified_name": "gazelle",
+    "filename": "gazelle.jpeg"
+  },
+  {
+    "name": "addax",
+    "slugified_name": "addax",
+    "filename": "addax.jpeg"
+  },
+  {
+    "name": "elk",
+    "slugified_name": "elk",
+    "filename": "elk.jpeg"
+  },
+  {
+    "name": "goat",
+    "slugified_name": "goat",
+    "filename": "goat.jpeg"
+  },
+  {
+    "name": "chamois",
+    "slugified_name": "chamois",
+    "filename": "chamois.jpeg"
+  },
+  {
+    "name": "seal",
+    "slugified_name": "seal",
+    "filename": "seal.jpeg"
+  },
+  {
+    "name": "dromedary",
+    "slugified_name": "dromedary",
+    "filename": "dromedary.jpeg"
+  },
+  {
+    "name": "guinea pig",
+    "slugified_name": "guinea_pig",
+    "filename": "guinea_pig.jpeg"
+  },
+  {
+    "name": "salamander",
+    "slugified_name": "salamander",
+    "filename": "salamander.jpeg"
+  },
+  {
+    "name": "marten",
+    "slugified_name": "marten",
+    "filename": "marten.jpeg"
+  },
+  {
+    "name": "walrus",
+    "slugified_name": "walrus",
+    "filename": "walrus.jpeg"
+  },
+  {
+    "name": "gorilla",
+    "slugified_name": "gorilla",
+    "filename": "gorilla.jpeg"
+  },
+  {
+    "name": "tiger",
+    "slugified_name": "tiger",
+    "filename": "tiger.jpeg"
+  },
+  {
+    "name": "coati",
+    "slugified_name": "coati",
+    "filename": "coati.jpeg"
+  },
+  {
+    "name": "steer",
+    "slugified_name": "steer",
+    "filename": "steer.jpeg"
+  },
+  {
+    "name": "monkey",
+    "slugified_name": "monkey",
+    "filename": "monkey.jpeg"
+  },
+  {
+    "name": "finch",
+    "slugified_name": "finch",
+    "filename": "finch.jpeg"
+  },
+  {
+    "name": "lamb",
+    "slugified_name": "lamb",
+    "filename": "lamb.jpeg"
+  },
+  {
+    "name": "gopher",
+    "slugified_name": "gopher",
+    "filename": "gopher.jpeg"
+  },
+  {
+    "name": "cow",
+    "slugified_name": "cow",
+    "filename": "cow.jpeg"
+  },
+  {
+    "name": "cat",
+    "slugified_name": "cat",
+    "filename": "cat.jpeg"
+  },
+  {
+    "name": "puppy",
+    "slugified_name": "puppy",
+    "filename": "puppy.jpeg"
+  },
+  {
+    "name": "armadillo",
+    "slugified_name": "armadillo",
+    "filename": "armadillo.jpeg"
+  },
+  {
+    "name": "musk ox",
+    "slugified_name": "musk_ox",
+    "filename": "musk_ox.jpeg"
+  },
+  {
+    "name": "civet",
+    "slugified_name": "civet",
+    "filename": "civet.jpeg"
+  },
+  {
+    "name": "koala",
+    "slugified_name": "koala",
+    "filename": "koala.jpeg"
+  },
+  {
+    "name": "gemsbok",
+    "slugified_name": "gemsbok",
+    "filename": "gemsbok.jpeg"
+  },
+  {
+    "name": "dugong",
+    "slugified_name": "dugong",
+    "filename": "dugong.jpeg"
+  },
+  {
+    "name": "giraffe",
+    "slugified_name": "giraffe",
+    "filename": "giraffe.jpeg"
+  },
+  {
+    "name": "skunk",
+    "slugified_name": "skunk",
+    "filename": "skunk.jpeg"
+  },
+  {
+    "name": "opossum",
+    "slugified_name": "opossum",
+    "filename": "opossum.jpeg"
+  },
+  {
+    "name": "wildcat",
+    "slugified_name": "wildcat",
+    "filename": "wildcat.jpeg"
+  },
+  {
+    "name": "camel",
+    "slugified_name": "camel",
+    "filename": "camel.jpeg"
+  },
+  {
+    "name": "aardvark",
+    "slugified_name": "aardvark",
+    "filename": "aardvark.jpeg"
+  },
+  {
+    "name": "puma",
+    "slugified_name": "puma",
+    "filename": "puma.jpeg"
+  },
+  {
+    "name": "jerboa",
+    "slugified_name": "jerboa",
+    "filename": "jerboa.jpeg"
+  },
+  {
+    "name": "wombat",
+    "slugified_name": "wombat",
+    "filename": "wombat.jpeg"
+  },
+  {
+    "name": "oryx",
+    "slugified_name": "oryx",
+    "filename": "oryx.jpeg"
+  },
+  {
+    "name": "polar bear",
+    "slugified_name": "polar_bear",
+    "filename": "polar_bear.jpeg"
+  },
+  {
+    "name": "vicuna",
+    "slugified_name": "vicuna",
+    "filename": "vicuna.jpeg"
+  },
+  {
+    "name": "deer",
+    "slugified_name": "deer",
+    "filename": "deer.jpeg"
+  },
+  {
+    "name": "parakeet",
+    "slugified_name": "parakeet",
+    "filename": "parakeet.jpeg"
+  },
+  {
+    "name": "muskrat",
+    "slugified_name": "muskrat",
+    "filename": "muskrat.jpeg"
+  },
+  {
+    "name": "silver fox",
+    "slugified_name": "silver_fox",
+    "filename": "silver_fox.jpeg"
+  },
+  {
+    "name": "kitten",
+    "slugified_name": "kitten",
+    "filename": "kitten.jpeg"
+  },
+  {
+    "name": "buffalo",
+    "slugified_name": "buffalo",
+    "filename": "buffalo.jpeg"
+  },
+  {
+    "name": "pronghorn",
+    "slugified_name": "pronghorn",
+    "filename": "pronghorn.jpeg"
+  },
+  {
+    "name": "shrew",
+    "slugified_name": "shrew",
+    "filename": "shrew.jpeg"
+  },
+  {
+    "name": "reindeer",
+    "slugified_name": "reindeer",
+    "filename": "reindeer.jpeg"
+  },
+  {
+    "name": "hedgehog",
+    "slugified_name": "hedgehog",
+    "filename": "hedgehog.jpeg"
+  },
+  {
+    "name": "bunny",
+    "slugified_name": "bunny",
+    "filename": "bunny.jpeg"
+  },
+  {
+    "name": "meerkat",
+    "slugified_name": "meerkat",
+    "filename": "meerkat.jpeg"
+  },
+  {
+    "name": "ocelot",
+    "slugified_name": "ocelot",
+    "filename": "ocelot.jpeg"
+  },
+  {
+    "name": "bat",
+    "slugified_name": "bat",
+    "filename": "bat.jpeg"
+  },
+  {
+    "name": "capybara",
+    "slugified_name": "capybara",
+    "filename": "capybara.jpeg"
+  },
+  {
+    "name": "alpaca",
+    "slugified_name": "alpaca",
+    "filename": "alpaca.jpeg"
+  },
+  {
+    "name": "waterbuck",
+    "slugified_name": "waterbuck",
+    "filename": "waterbuck.jpeg"
+  },
+  {
+    "name": "sloth",
+    "slugified_name": "sloth",
+    "filename": "sloth.jpeg"
+  },
+  {
+    "name": "lion",
+    "slugified_name": "lion",
+    "filename": "lion.jpeg"
+  },
+  {
+    "name": "chicken",
+    "slugified_name": "chicken",
+    "filename": "chicken.jpeg"
+  },
+  {
+    "name": "eagle owl",
+    "slugified_name": "eagle_owl",
+    "filename": "eagle_owl.jpeg"
+  },
+  {
+    "name": "boar",
+    "slugified_name": "boar",
+    "filename": "boar.jpeg"
+  },
+  {
+    "name": "dingo",
+    "slugified_name": "dingo",
+    "filename": "dingo.jpeg"
+  },
+  {
+    "name": "beaver",
+    "slugified_name": "beaver",
+    "filename": "beaver.jpeg"
+  },
+  {
+    "name": "iguana",
+    "slugified_name": "iguana",
+    "filename": "iguana.jpeg"
+  },
+  {
+    "name": "crow",
+    "slugified_name": "crow",
+    "filename": "crow.jpeg"
+  },
+  {
+    "name": "otter",
+    "slugified_name": "otter",
+    "filename": "otter.jpeg"
+  },
+  {
+    "name": "peccary",
+    "slugified_name": "peccary",
+    "filename": "peccary.jpeg"
+  },
+  {
+    "name": "lovebird",
+    "slugified_name": "lovebird",
+    "filename": "lovebird.jpeg"
+  },
+  {
+    "name": "guanaco",
+    "slugified_name": "guanaco",
+    "filename": "guanaco.jpeg"
+  },
+  {
+    "name": "ewe",
+    "slugified_name": "ewe",
+    "filename": "ewe.jpeg"
+  },
+  {
+    "name": "grizzly bear",
+    "slugified_name": "grizzly_bear",
+    "filename": "grizzly_bear.jpeg"
+  },
+  {
+    "name": "stallion",
+    "slugified_name": "stallion",
+    "filename": "stallion.jpeg"
+  },
+  {
+    "name": "porpoise",
+    "slugified_name": "porpoise",
+    "filename": "porpoise.jpeg"
+  },
+  {
+    "name": "bear",
+    "slugified_name": "bear",
+    "filename": "bear.jpeg"
+  },
+  {
+    "name": "leopard",
+    "slugified_name": "leopard",
+    "filename": "leopard.jpeg"
+  },
+  {
+    "name": "gnu",
+    "slugified_name": "gnu",
+    "filename": "gnu.jpeg"
+  },
+  {
+    "name": "snowy owl",
+    "slugified_name": "snowy_owl",
+    "filename": "snowy_owl.jpeg"
+  },
+  {
+    "name": "warthog",
+    "slugified_name": "warthog",
+    "filename": "warthog.jpeg"
+  },
+  {
+    "name": "cheetah",
+    "slugified_name": "cheetah",
+    "filename": "cheetah.jpeg"
+  },
+  {
+    "name": "mouse",
+    "slugified_name": "mouse",
+    "filename": "mouse.jpeg"
+  },
+  {
+    "name": "whale",
+    "slugified_name": "whale",
+    "filename": "whale.jpeg"
+  },
+  {
+    "name": "donkey",
+    "slugified_name": "donkey",
+    "filename": "donkey.jpeg"
+  },
+  {
+    "name": "impala",
+    "slugified_name": "impala",
+    "filename": "impala.jpeg"
+  },
+  {
+    "name": "dung beetle",
+    "slugified_name": "dung_beetle",
+    "filename": "dung_beetle.jpeg"
+  },
+  {
+    "name": "rooster",
+    "slugified_name": "rooster",
+    "filename": "rooster.jpeg"
+  },
+  {
+    "name": "musk deer",
+    "slugified_name": "musk_deer",
+    "filename": "musk_deer.jpeg"
+  },
+  {
+    "name": "thorny devil",
+    "slugified_name": "thorny_devil",
+    "filename": "thorny_devil.jpeg"
+  },
+  {
+    "name": "rabbit",
+    "slugified_name": "rabbit",
+    "filename": "rabbit.jpeg"
+  },
+  {
+    "name": "panda",
+    "slugified_name": "panda",
+    "filename": "panda.jpeg"
+  },
+  {
+    "name": "burro",
+    "slugified_name": "burro",
+    "filename": "burro.jpeg"
+  },
+  {
+    "name": "highland cow",
+    "slugified_name": "highland_cow",
+    "filename": "highland_cow.jpeg"
+  },
+  {
+    "name": "dog",
+    "slugified_name": "dog",
+    "filename": "dog.jpeg"
+  },
+  {
+    "name": "squirrel",
+    "slugified_name": "squirrel",
+    "filename": "squirrel.jpeg"
+  },
+  {
+    "name": "tapir",
+    "slugified_name": "tapir",
+    "filename": "tapir.jpeg"
+  },
+  {
+    "name": "ram",
+    "slugified_name": "ram",
+    "filename": "ram.jpeg"
+  },
+  {
+    "name": "hamster",
+    "slugified_name": "hamster",
+    "filename": "hamster.jpeg"
+  },
+  {
+    "name": "rat",
+    "slugified_name": "rat",
+    "filename": "rat.jpeg"
+  },
+  {
+    "name": "hyena",
+    "slugified_name": "hyena",
+    "filename": "hyena.jpeg"
+  },
+  {
+    "name": "bighorn",
+    "slugified_name": "bighorn",
+    "filename": "bighorn.jpeg"
+  },
+  {
+    "name": "turtle",
+    "slugified_name": "turtle",
+    "filename": "turtle.jpeg"
+  },
+  {
+    "name": "chipmunk",
+    "slugified_name": "chipmunk",
+    "filename": "chipmunk.jpeg"
+  },
+  {
+    "name": "mare",
+    "slugified_name": "mare",
+    "filename": "mare.jpeg"
+  },
+  {
+    "name": "jaguar",
+    "slugified_name": "jaguar",
+    "filename": "jaguar.jpeg"
+  },
+  {
+    "name": "bull",
+    "slugified_name": "bull",
+    "filename": "bull.jpeg"
+  },
+  {
+    "name": "eland",
+    "slugified_name": "eland",
+    "filename": "eland.jpeg"
+  },
+  {
+    "name": "duckbill platypus",
+    "slugified_name": "duckbill_platypus",
+    "filename": "duckbill_platypus.jpeg"
+  },
+  {
+    "name": "colt",
+    "slugified_name": "colt",
+    "filename": "colt.jpeg"
+  },
+  {
+    "name": "starfish",
+    "slugified_name": "starfish",
+    "filename": "starfish.jpeg"
+  },
+  {
+    "name": "orangutan",
+    "slugified_name": "orangutan",
+    "filename": "orangutan.jpeg"
+  },
+  {
+    "name": "moose",
+    "slugified_name": "moose",
+    "filename": "moose.jpeg"
+  },
+  {
+    "name": "marmoset",
+    "slugified_name": "marmoset",
+    "filename": "marmoset.jpeg"
+  },
+  {
+    "name": "bumble bee",
+    "slugified_name": "bumble_bee",
+    "filename": "bumble_bee.jpeg"
+  },
+  {
+    "name": "fish",
+    "slugified_name": "fish",
+    "filename": "fish.jpeg"
+  },
+  {
+    "name": "zebu",
+    "slugified_name": "zebu",
+    "filename": "zebu.jpeg"
+  },
+  {
+    "name": "anteater",
+    "slugified_name": "anteater",
+    "filename": "anteater.jpeg"
+  },
+  {
+    "name": "wolverine",
+    "slugified_name": "wolverine",
+    "filename": "wolverine.jpeg"
+  },
+  {
+    "name": "fawn",
+    "slugified_name": "fawn",
+    "filename": "fawn.jpeg"
+  },
+  {
+    "name": "quagga",
+    "slugified_name": "quagga",
+    "filename": "quagga.jpeg"
+  },
+  {
+    "name": "ferret",
+    "slugified_name": "ferret",
+    "filename": "ferret.jpeg"
+  },
+  {
+    "name": "argali",
+    "slugified_name": "argali",
+    "filename": "argali.jpeg"
+  },
+  {
+    "name": "chinchilla",
+    "slugified_name": "chinchilla",
+    "filename": "chinchilla.jpeg"
+  },
+  {
+    "name": "badger",
+    "slugified_name": "badger",
+    "filename": "badger.jpeg"
+  },
+  {
+    "name": "bison",
+    "slugified_name": "bison",
+    "filename": "bison.jpeg"
+  },
+  {
+    "name": "mule",
+    "slugified_name": "mule",
+    "filename": "mule.jpeg"
+  },
+  {
+    "name": "ground hog",
+    "slugified_name": "ground_hog",
+    "filename": "ground_hog.jpeg"
+  },
+  {
+    "name": "wolf",
+    "slugified_name": "wolf",
+    "filename": "wolf.jpeg"
+  },
+  {
+    "name": "elephant",
+    "slugified_name": "elephant",
+    "filename": "elephant.jpeg"
+  },
+  {
+    "name": "parrot",
+    "slugified_name": "parrot",
+    "filename": "parrot.jpeg"
+  },
+  {
+    "name": "springbok",
+    "slugified_name": "springbok",
+    "filename": "springbok.jpeg"
+  },
+  {
+    "name": "lemur",
+    "slugified_name": "lemur",
+    "filename": "lemur.jpeg"
+  },
+  {
+    "name": "mink",
+    "slugified_name": "mink",
+    "filename": "mink.jpeg"
+  },
+  {
+    "name": "zebra",
+    "slugified_name": "zebra",
+    "filename": "zebra.jpeg"
+  },
+  {
+    "name": "llama",
+    "slugified_name": "llama",
+    "filename": "llama.jpeg"
+  },
+  {
+    "name": "ibex",
+    "slugified_name": "ibex",
+    "filename": "ibex.jpeg"
+  },
+  {
+    "name": "horse",
+    "slugified_name": "horse",
+    "filename": "horse.jpeg"
+  },
+  {
+    "name": "alligator",
+    "slugified_name": "alligator",
+    "filename": "alligator.jpeg"
+  },
+  {
+    "name": "okapi",
+    "slugified_name": "okapi",
+    "filename": "okapi.jpeg"
+  },
+  {
+    "name": "mustang",
+    "slugified_name": "mustang",
+    "filename": "mustang.jpeg"
+  },
+  {
+    "name": "chameleon",
+    "slugified_name": "chameleon",
+    "filename": "chameleon.jpeg"
+  },
+  {
+    "name": "canary",
+    "slugified_name": "canary",
+    "filename": "canary.jpeg"
+  },
+  {
+    "name": "jackal",
+    "slugified_name": "jackal",
+    "filename": "jackal.jpeg"
+  },
+  {
+    "name": "raccoon",
+    "slugified_name": "raccoon",
+    "filename": "raccoon.jpeg"
+  },
+  {
+    "name": "mountain goat",
+    "slugified_name": "mountain_goat",
+    "filename": "mountain_goat.jpeg"
+  },
+  {
+    "name": "mongoose",
+    "slugified_name": "mongoose",
+    "filename": "mongoose.jpeg"
+  },
+  {
+    "name": "sheep",
+    "slugified_name": "sheep",
+    "filename": "sheep.jpeg"
+  },
+  {
+    "name": "mynah bird",
+    "slugified_name": "mynah_bird",
+    "filename": "mynah_bird.jpeg"
+  },
+  {
+    "name": "hippopotamus",
+    "slugified_name": "hippopotamus",
+    "filename": "hippopotamus.jpeg"
+  },
+  {
+    "name": "frog",
+    "slugified_name": "frog",
+    "filename": "frog.jpeg"
+  },
+  {
+    "name": "pony",
+    "slugified_name": "pony",
+    "filename": "pony.jpeg"
+  }
+]
